@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name='S.O.SApplication'
+include ':mylibrary'
